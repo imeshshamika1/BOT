@@ -47,7 +47,7 @@ $ node alexa.js
 
 ## 💫 Deploy WhatsAlexa on Heroku 💫
 
-[![Deploy-WhatsAlexa](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MrChaby/Jessi-4r-whatsAlexa)
+[![Deploy-WhatsAlexa](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/imeshshamika1/BOT)
 
 ## ❔ F A Q ( Frequently Asked Questions ) ❔
 
